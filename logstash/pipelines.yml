@@ -1,0 +1,3 @@
+- pipeline.id: pipeline_jungle
+  path.config: "/usr/share/logstash/pipeline/godevs.conf"
+  pipeline.workers: 1

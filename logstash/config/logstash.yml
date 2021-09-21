@@ -1,0 +1,4 @@
+http.host: "0.0.0.0"
+path.settings: /usr/share/logstash
+config.reload.automatic: true
+pipeline.batch.size: 500
